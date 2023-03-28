@@ -1,4 +1,4 @@
-# lung-cancer-text-dataset
+# lung-cancer-prediction
 a brief description of how to analyze a lung cancer text dataset:
 
 Data exploration: Begin by exploring the dataset to get an idea of its structure, size, and contents. Some of the key aspects to look at include the number of samples, the number of features, the distribution of classes, and the types of features available (e.g., text, numerical, categorical).
